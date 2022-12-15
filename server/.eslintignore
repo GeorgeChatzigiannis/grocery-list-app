@@ -1,0 +1,7 @@
+src/configurations/HttpStatusCodes.ts
+src/server.ts
+node_modules/
+public/
+.prettierrc.js
+.eslintrc.json
+env.d.ts
